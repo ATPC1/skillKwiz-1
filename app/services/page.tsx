@@ -76,7 +76,7 @@ export default function ServicesPage() {
       {/* Background pattern */}
       <div className="absolute inset-0 z-0 overflow-hidden">
         <Image
-          src="/images/background.png"
+          src="/images/servicespage/services-bg.png"
           alt="Background"
           fill
           priority

@@ -7,7 +7,7 @@ export default function EmployerProfile() {
       <div className="flex flex-col md:flex-row items-center md:items-start gap-8 bg-white/10 rounded-lg p-6">
         <div className="w-40 h-40 rounded-full overflow-hidden bg-gradient-to-b from-gray-300 to-gray-400 flex-shrink-0">
           <Image
-            src="/images/profile-pic.png"
+            src="/placeholder-user.jpg"
             alt="Profile"
             width={160}
             height={160}
